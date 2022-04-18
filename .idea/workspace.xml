@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b0fda45-e4a4-45ae-9e63-22e5c2226a6a" name="Changes" comment="Initial commit&#10;&#10;=&gt; all code is already written" />
+    <list default="true" id="6b0fda45-e4a4-45ae-9e63-22e5c2226a6a" name="Changes" comment="Moved files to files folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +33,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../programmingfundamentals" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="ssh.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaspe\Documents\the chaos game\files" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.main (1)">
     <configuration name="draw_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -120,7 +125,7 @@
       <workItem from="1650270288363" duration="2783000" />
       <workItem from="1650273104952" duration="5232000" />
       <workItem from="1650291168818" duration="9855000" />
-      <workItem from="1650312726553" duration="1044000" />
+      <workItem from="1650312726553" duration="1362000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;&#10;=&gt; all code is already written">
       <created>1650313729419</created>
@@ -129,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650313729419</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Moved files to files folder">
+      <created>1650313840877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650313840877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +160,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit&#10;&#10;=&gt; all code is already written" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;&#10;=&gt; all code is already written" />
+    <MESSAGE value="Moved files to files folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved files to files folder" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1650312906164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../the chaos game" />
